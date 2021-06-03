@@ -1,0 +1,16 @@
+﻿  Administrador.cpp
+  Caracter.cpp
+  Jugador.cpp
+  Lista.cpp
+C:\Users\Admin\Desktop\Codigos c++\Ahorcado con archivos\main\Lista.cpp(44,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Admin\Desktop\Codigos c++\Ahorcado con archivos\main\Lista.cpp(102,45): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  ListaChar.cpp
+  ListaJugador.cpp
+  main.cpp
+  Nodo.cpp
+  NodoChar.cpp
+  NodoJugador.cpp
+  Palabras.cpp
+  Utiles.cpp
+  Generando código...
+  main.vcxproj -> C:\Users\Admin\Desktop\Codigos c++\Ahorcado con archivos\Debug\main.exe
